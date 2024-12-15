@@ -1,0 +1,92 @@
+.footer-columns {
+ display: flex;
+}
+.footer-column {
+ flex: 50%;
+ margin: 20px;
+}
+header, footer {
+ background-color: black;
+ padding: 10px;
+}
+
+.post {
+ background-color: white;
+ padding: 20px;
+ border-radius: 10px;
+ margin-bottom: 20px;
+ display: flex;
+}
+.post img {
+ margin: 20px;
+}
+main {
+ padding: 10px;
+ background-color: silver;
+}
+
+}
+.post img {
+ margin: 20px;
+}
+
+h4{
+  color: white
+}
+p1 {
+  color: white
+} 
+small{
+  color: white
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+Добавьте приведенные ниже  стили к элементу body.
+ body {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: ;
+  color: #4A5568;
+}
+
+.testimonials {
+  max-width: 3000px;
+  margin: auto;
+}
+
+.item {
+  min-width: 100%;
+  min-height: 200px; /* To start with */
+  background-color: ; /* For demo */
+}
+
+body {
+ background-color: black; 
+ 
+}
+header {
+  text-align: center;
+  
+}
+text{
+  color: white;
+
+  vertical-align: 150px;  
+  font-size: 30px
+}
+
+span{
+  display: inline-block;
+  transform: translate(-29em);
+  
+}
+
+h {
+  gap: 100px;
+   vertical-align: -15px;
+}
+footer{
+    text-align: center;
+}
